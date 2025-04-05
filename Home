@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Train Game - Wiki & Development</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px 30px;
+    }
+    header h1 {
+      margin: 0;
+    }
+    nav {
+      background-color: #444;
+      padding: 10px 30px;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin-right: 15px;
+    }
+    main {
+      padding: 30px;
+      max-width: 1000px;
+      margin: auto;
+      background-color: #fff;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+    h2 {
+      color: #333;
+    }
+    footer {
+      background: #222;
+      color: #ccc;
+      text-align: center;
+      padding: 15px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Train Game Wiki & Development</h1>
+  </header>
+
+  <nav>
+    <a href="#overview">Overview</a>
+    <a href="#features">Features</a>
+    <a href="#dev-updates">Dev Updates</a>
+    <a href="#wiki">Wiki</a>
+  </nav>
+
+  <main>
+    <section id="overview">
+      <h2>Game Overview</h2>
+      <p>Train Game is a simulation and strategy game where you build, manage, and expand your railway empire across a dynamic and evolving world.</p>
+    </section>
+
+    <section id="features">
+      <h2>Key Features</h2>
+      <ul>
+        <li>Realistic train physics and signaling</li>
+        <li>Custom track building</li>
+        <li>Economy and logistics system</li>
+        <li>Singleplayer and multiplayer modes</li>
+        <li>Modding support</li>
+      </ul>
+    </section>
+
+    <section id="dev-updates">
+      <h2>Development Updates</h2>
+      <p><strong>April 2025:</strong> Track switching logic overhaul and improved AI pathfinding.</p>
+      <p><strong>March 2025:</strong> Multiplayer stress testing complete!</p>
+      <p><strong>February 2025:</strong> First closed beta launched.</p>
+    </section>
+
+    <section id="wiki">
+      <h2>Wiki Pages</h2>
+      <ul>
+        <li><a href="#">Train Types</a></li>
+        <li><a href="#">Track Building Guide</a></li>
+        <li><a href="#">Signal Systems</a></li>
+        <li><a href="#">Economy and Resources</a></li>
+        <li><a href="#">Modding Tools</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Train Game. All rights reserved.
+  </footer>
+
+</body>
+</html>
